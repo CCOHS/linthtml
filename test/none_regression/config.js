@@ -7,7 +7,7 @@ module.exports = {
   "id-class-ignore-regex": false,
   "line-max-len-ignore-regex": false,
   rules: {
-    "aria-valid": true,
+    "aria-valid-attr": true,
     "attr-bans": [
       true,
       [
