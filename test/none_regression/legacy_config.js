@@ -3,6 +3,7 @@ module.exports = {
   "raw-ignore-regex": false,
   "spec-char-escape": false,
   "text-ignore-regex": false,
+  "aria-valid": false,
   "attr-bans": [
     "align",
     "background",
