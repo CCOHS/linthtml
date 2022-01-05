@@ -8,6 +8,7 @@ module.exports = {
   "line-max-len-ignore-regex": false,
   rules: {
     "aria-valid-attr": true,
+    "aria-valid-role": true,
     "attr-bans": [
       true,
       [

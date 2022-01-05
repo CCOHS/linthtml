@@ -4,6 +4,7 @@ module.exports = {
   "spec-char-escape": false,
   "text-ignore-regex": false,
   "aria-valid-attr": false,
+  "aria-valid-role": false,
   "attr-bans": [
     "align",
     "background",
