@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.8.5](https://github.com/CCOHS/linthtml/compare/v0.8.4...v0.8.5) (2022-02-28)
+
+### Features 🚀
+
+* Add aria-valid-attr and aria-valid-role rules
+
 ## [0.8.4](https://github.com/linthtml/linthtml/compare/v0.8.3...v0.8.4) (2021-12-17)
 
 ### Fix
