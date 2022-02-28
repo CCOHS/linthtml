@@ -5,6 +5,8 @@ To learn more about how activate or configure rules, have a look to this [docume
 
 | Rule name                                                                                   | Description                                                                |
 | :------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------- |
+| [aria-valid-attr](./../lib/rules/aria-valid-attr/README.md)                                 | Enforce valid ARIA attributes                                              |
+| [aria-valid-role](./../lib/rules/aria-valid-role/README.md)                                 | Enforce valid ARIA roles                                                   |
 | [attr-bans](./../lib/rules/attr-bans/README.md)                                             | Specify a list of disallowed HTML attributes                               |
 | [attr-name-style](./../lib/rules/attr-name-style/README.md)                                 | Enforce naming conventions for HTML tag name                               |
 | [attr-name-ignore-regex](./../lib/rules/attr-name-ignore-regex/README.md)                   |                                                                            |
